@@ -1,0 +1,18 @@
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\bin\Debug\Simu.exe.config
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\bin\Debug\Simu.exe
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\bin\Debug\Simu.pdb
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.csprojResolveAssemblyReference.cache
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.Form1.resources
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.Properties.Resources.resources
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.csproj.GenerateResource.Cache
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.exe
+c:\users\sadifetarih\documents\visual studio 2015\Projects\Simu\Simu\obj\Debug\Simu.pdb
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\bin\Debug\Simu.exe.config
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.exe
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.pdb
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\bin\Debug\Simu.exe
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\bin\Debug\Simu.pdb
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.csprojResolveAssemblyReference.cache
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.Form1.resources
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.Properties.Resources.resources
+C:\Users\SadifeTarih\Desktop\Education\7.Dönem\CE412-Comp.Simu\Proje-1\Simu\Simu\obj\Debug\Simu.csproj.GenerateResource.Cache
